@@ -95,9 +95,9 @@ Future improvements may include hybrid filtering and dimensionality reduction.
 
 ## 👥 Team Members
 
-- **Doaa Brnawi** – Experiments, README, Code  
-- **Lamis Melebari** – Abstract, Introduction, Conclusion, Code  
-- **Taif Alharbi** – Background, Related Work, Approach, Code  
+- **Doaa Brnawi**
+- **Lamis Melebari**  
+- **Taif Alharbi**  
 
 ---
 
